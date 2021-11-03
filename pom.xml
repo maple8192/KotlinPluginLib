@@ -6,7 +6,7 @@
 
     <groupId>io.github.maple8192</groupId>
     <artifactId>KotlinPluginLib</artifactId>
-    <version>1.17.1</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <name>KotlinPluginLib</name>
