@@ -1,6 +1,11 @@
 # KotlinPluginLib
-プラグインにいちいちKotlinStdlib入れなくていいようにするためのプラグイン
+
+## 概要
+Kotlinで作ったプラグインにいちいちkotlin-stdlibを入れなくても良いようにするプラグイン
+
+## 前提プラグイン
+なし
 
 ## 使い方
-pluginsに突っ込む
-このプラグインを SoftDepend か Depend に入れておかないと警告が出る(別に入れなくても動く)
+このプラグインをDependまたはSoftDependに入れておかないと警告が出る  
+(入れなくても動作はする)
