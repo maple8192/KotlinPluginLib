@@ -1,5 +1,5 @@
 name: KotlinPluginLib
 version: '${project.version}'
 main: io.github.maple8192.kotlinpluginlib.KotlinPluginLib
-api-version: 1.17
+api-version: 1.19
 load: STARTUP
